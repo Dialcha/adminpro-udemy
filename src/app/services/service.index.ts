@@ -1,5 +1,5 @@
-
 // GUARDS
+export { VerificaTokenGuard } from './guards/verifica-token.guard';
 export { AdminGuard } from './guards/admin.guard';
 export { LoginGuardGuard } from './guards/login-guard.guard';
 
